@@ -24,7 +24,7 @@
         <a class="on-hover text-color-secondary link label-twitter" href="https://twitter.com/StckOverflw" target="_blank" rel="noopener noreferrer"></a>
       </div>
       <div class="link">
-        <a class="on-hover text-color-secondary link label-discord" href="discord://-/users/816989010836717599" onclick="openDiscordFallback()" target="_blank" rel="noopener noreferrer"></a>
+        <a class="on-hover text-color-secondary link label-discord" href="discord://-/users/816989010836717599" onclick="openDiscordFallback()"></a>
       </div>
     </div>
     <div class="subpage-text animate delay12">
